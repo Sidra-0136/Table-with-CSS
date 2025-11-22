@@ -1,0 +1,46 @@
+* {
+  background-color: #FFD9BD;
+}
+h1 {
+  text-align: center;
+  font-size: 22px;
+  color: #E6A22D;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+  color: #6C22BF;
+}
+footer {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 16px;
+  color: #39C81D
+  }
+.style {
+  width: 90%;                   
+  margin: 0 auto;                 
+  border-collapse: collapse;      
+  font-size: 14px;
+  background-color: #ffe0c5;    
+}
+
+th {
+  background-color: #9acd32;    
+  color: black;
+  padding: 4px;
+  border: 1px solid green;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid green;      
+  padding: 3px 5px;               
+  text-align: center;
+  line-height: 1.1;               
+}
+
+
+
+
+
